@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66D46F53-BB04-4823-97D6-92AE6E981E70</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dictionary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2518B724A43118D6978FF7EE28E757C01F641C3</key>
+		<string>ssh://github.com/stanaka/RepeatMemorize.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dictionary.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2518B724A43118D6978FF7EE28E757C01F641C3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/stanaka/RepeatMemorize.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2518B724A43118D6978FF7EE28E757C01F641C3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2518B724A43118D6978FF7EE28E757C01F641C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RepeatMemorize</string>
+		</dict>
+	</array>
+</dict>
+</plist>
